@@ -1,0 +1,4 @@
+.GPH_field{
+    display: grid;
+    grid-template-columns: auto auto;
+}

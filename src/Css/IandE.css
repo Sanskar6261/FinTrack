@@ -1,0 +1,16 @@
+.Main_filed{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.leftfield , .rightfield{
+  border: 1px solid rgba(87, 61, 61, 0.372);
+  text-align: center;
+}
+.income
+{
+    color: green;
+}
+.expense
+{
+    color: red;
+}
